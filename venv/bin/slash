@@ -1,0 +1,10 @@
+#!/home/runner/spamer-bot-update/venv/bin/python3
+# PBR Generated from 'console_scripts'
+
+import sys
+
+from slash.frontend.main import main_entry_point
+
+
+if __name__ == "__main__":
+    sys.exit(main_entry_point())
